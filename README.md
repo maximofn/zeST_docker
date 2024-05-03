@@ -1,7 +1,3 @@
-# zeST_docker
-ZeST docker
-
-
 # ZeST docker
 
 Dockerization of the [Hugging Face ZeST Space](https://huggingface.co/spaces/fffiloni/ZeST)
